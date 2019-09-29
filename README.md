@@ -7,3 +7,7 @@ Esto desplegará un servidor en el puerto 3000 y podrá acceder a través de `ht
 ## Imagenes
 
 Los pantallazos tomados por cypress se pueden encontrar [acá](https://github.com/matrujillo10/taller-vrt/tree/master/public/images).
+
+## Demo
+
+![](t7.gif)
