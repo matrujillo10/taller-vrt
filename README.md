@@ -6,4 +6,4 @@ Esto desplegará un servidor en el puerto 3000 y podrá acceder a través de `ht
 
 ## Imagenes
 
-Las imagenes se pueden encontrar [acá](https://github.com/matrujillo10/taller-vrt/tree/master/public/images).
+Los pantallazos tomados por cypress se pueden encontrar [acá](https://github.com/matrujillo10/taller-vrt/tree/master/public/images).
