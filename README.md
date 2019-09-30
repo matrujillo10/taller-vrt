@@ -20,6 +20,10 @@ Los pantallazos tomados por cypress se pueden encontrar [acá](https://github.co
 
 El script de Cypress se encuentra [acá](https://github.com/cmartinezbjmu/miso-4208-vrt/tree/master/cypress).
 
+## ResembleJS
+
+Este es el archivo donde se usa ResembleJS para realizar la compraración: [link](https://github.com/matrujillo10/taller-vrt/blob/master/routes/index.js).
+
 ## Aplicación de automatización
 
 - Link del repositorio con la aplicación de automatización [acá](https://github.com/matrujillo10/taller-vrt).
