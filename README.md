@@ -27,6 +27,7 @@ Este es el archivo donde se usa ResembleJS para realizar la compraración: [link
 ## Aplicación de automatización
 
 - Link del repositorio con la aplicación de automatización [acá](https://github.com/matrujillo10/taller-vrt).
+- Link de la aplicación en Heroku [acá](https://miso-4208-taller-7.herokuapp.com/).
 
 ### Funcionamiento
 
