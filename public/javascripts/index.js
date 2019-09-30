@@ -20,7 +20,7 @@ $(document).ready(function() {
 
     $( "#generador" ).click(function() {
         $.ajax({
-            url: "http://localhost:3000/execute",
+            url: "https://miso-4208-taller-7.herokuapp.com/execute",
             crossDomain: true
         }).done(function(data) {
             $('#reportes').append(generarReporte(data));
