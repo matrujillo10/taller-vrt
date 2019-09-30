@@ -18,7 +18,7 @@ Esto desplegará un servidor en el puerto 3000 y podrá acceder a través de `ht
 
 Los pantallazos tomados por cypress se pueden encontrar [acá](https://github.com/matrujillo10/taller-vrt/tree/master/public/images).
 
-## Aplicaciónd de automatización
+## Aplicación de automatización
 
 - Link del repositorio con la aplicación de automatización [acá](https://github.com/matrujillo10/taller-vrt).
 
