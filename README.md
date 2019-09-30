@@ -12,6 +12,7 @@ Esto desplegará un servidor en el puerto 3000 y podrá acceder a través de `ht
 ## Aplicación
 
 - Link de la aplicación [acá](https://cmartinezbjmu.github.io/miso-4208-vrt/palette.html).
+- Link al repositorio de la aplicación [acá](https://github.com/cmartinezbjmu/miso-4208-vrt).
 
 ## Imagenes
 
