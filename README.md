@@ -28,6 +28,7 @@ Este es el archivo donde se usa ResembleJS para realizar la compraración: [link
 
 - Link del repositorio con la aplicación de automatización [acá](https://github.com/matrujillo10/taller-vrt).
 - Link de la aplicación en Heroku [acá](https://miso-4208-taller-7.herokuapp.com/):
+
   Aunque la aplicación esté en Heroku, se recomienda editar el archivo index.js ubicado en la carpeta `public/javascripts` y cambiar la url de la petición `ajax` por `http://localhost:3000` y desplegar el proyecto de manera local debido a que Heroku no permitió ejecutar el script de `cypress`.
 
 ### Funcionamiento
