@@ -1,4 +1,4 @@
-# taller-vrt
+# Taller-VRT
 
 Para correrlo es necesario ejecutar primero `npm install` y posteriormente `npm start`.
 
