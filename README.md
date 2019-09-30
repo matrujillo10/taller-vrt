@@ -1,6 +1,6 @@
 # Taller-VRT
 
-# Integrante
+# Integrantes
 
 - Miller Andrés Trujillo - 201517402
 - Cristian Martinez Bedoya - 201818747
